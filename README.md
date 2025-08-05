@@ -84,11 +84,6 @@
 
 ---
 
-### 🎵 Currently Jamming To
-<p align="center"><img src="https://open.spotify.com/e=true" /></p>
-
----
-
 ### 🧠 Quote to Code By
 
 > "First, solve the problem. Then, write the code." – John Johnson
