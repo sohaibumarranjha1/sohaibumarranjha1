@@ -15,6 +15,7 @@
 - 📫 Contact me: **sohaibumarranjha@gmail.com**  
 - 🧠 Portfolio: [sohaibranjha.vercel.app](https://sohaibranjha.vercel.app/)  
 - ⚡ Fun Fact: *I turn ☕ into code, bugs into features, and deadlines into motivation.*
+- Founder at: [upliviondigital.vercel.app](https://upliviondigital.vercel.app/) 
 
 ---
 
