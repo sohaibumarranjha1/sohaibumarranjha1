@@ -13,7 +13,7 @@
 - 🌱 I’m learning **AI-Powered Web Apps**, **Serverless Architecture**, **Edge Computing**, **Next.js 14**  
 - 👨‍💻 All my projects live here: [@sohaibumarranjha1](https://github.com/sohaibumarranjha1)  
 - 📫 Contact me: **sohaibumarranjha@gmail.com**  
-- 🧠 Portfolio: [sohaibranjha.vercel.app](sohaibranjha-azure.vercel.app/)  
+- 🧠 Portfolio: [sohaibranjha-azure.vercel.app](sohaibranjha-azure.vercel.app/)  
 - ⚡ Fun Fact: *I turn ☕ into code, bugs into features, and deadlines into motivation.*
 - Founder at: [upliviondigital.vercel.app](https://upliviondigital.vercel.app/) 
 
